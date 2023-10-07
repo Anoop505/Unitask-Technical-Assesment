@@ -1,12 +1,11 @@
-
-## Description
+# Description
 
 --> Provided Task is -
------------------------------------------------------
+
 1. User signup - /api/users/signup
 2. User login - /api/users/login
 Access by authenticated user only
----------------------------------------
+-------------------------
 3. View profile - /api/users/me
 4. Get a random joke from chuck norris api & return it back - /api/random-joke
 GET https://api.chucknorris.io/jokes/random
